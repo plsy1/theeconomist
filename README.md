@@ -1,1 +1,1 @@
-# theeconomist
+# the economist
